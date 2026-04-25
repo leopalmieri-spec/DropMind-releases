@@ -10,7 +10,7 @@ This repository hosts the binary releases and assets for **DropMind**, a desktop
 ## 🔗 Links
 
 - **Latest release:** [Releases page](https://github.com/leopalmieri-spec/DropMind-releases/releases/latest)
-- **Website:** (coming soon)
+- **Website:** [dropmind.software](https://dropmind.software)
 - **Support:** [@DropMindBot](https://t.me/DropMindBot) on Telegram
 
 ## 📝 Note
